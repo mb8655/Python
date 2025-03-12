@@ -12,6 +12,10 @@ Showcase practical skills developed during coursework.
 Provide examples of real-world data processing techniques.
 
 ## Topics Covered
-The practice files in this repository cover the following key Pandas functionalities:
+The practice files in this repository cover the following functionalities:
 
-1) DataFrame Creation and Manipulation:
+1) Introduction_Descriptive_Analysis
+2) Introduction_Basic_Data_Manipulation_Techniques
+3) Advanced_Data_Manipulation_Techniques
+4) NYPD_Vehicle_Collisions 
+5) Pandas_Reading_Data
