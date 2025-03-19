@@ -1,0 +1,21 @@
+# Python Pandas Practice Codes
+
+## Overview
+This repository contains a collection of practice exercises focused on developing and consuming Web APIs using Python. These exercises were developed as part of my academic coursework at New York University (NYU) during my Master's in Business Analytics program. They cover various aspects of Web API development, including creating endpoints, handling requests and responses, and integrating with client applications.
+
+## Purpose of This Repository
+The goal of this repository is to:
+
+- Demonstrate proficiency in building and consuming Web APIs 
+- Showcase practical skills developed during coursework
+- Provide examples of real-world scenarios in Web API implementation
+
+## Topics Covered
+The practice files in this repository cover the following functionalities:
+
+1) Accessing_Web_APIs_using_Python
+
+## Additional Resources
+List of public APIs: https://github.com/public-apis/public-apis
+
+Tutorial for Web APIs: https://github.com/nestauk/im-tutorials/tree/3-ysi-tutorial/notebooks/APIs
